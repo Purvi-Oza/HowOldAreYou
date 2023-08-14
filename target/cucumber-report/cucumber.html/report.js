@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 22550805000,
+  "duration": 7891976900,
   "status": "passed"
 });
 formatter.background({
@@ -30,28 +30,28 @@ formatter.step({
 });
 formatter.step({
   "line": 6,
-  "name": "User verfies title of the webpage",
+  "name": "User verifies title of the webpage",
   "keyword": "And "
 });
 formatter.match({
   "location": "HomePageSteps.userIsOnTheHomepage()"
 });
 formatter.result({
-  "duration": 109121100,
+  "duration": 143658600,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
 });
 formatter.result({
-  "duration": 41513000,
+  "duration": 54097300,
   "status": "passed"
 });
 formatter.scenario({
   "line": 8,
-  "name": "User checks error message by leaving birthdate field empty",
+  "name": "User checks error message by leaving birthdate field empty - entering invalid credentials",
   "description": "",
-  "id": "verify-functionality-of-how-old-are-you-website;user-checks-error-message-by-leaving-birthdate-field-empty",
+  "id": "verify-functionality-of-how-old-are-you-website;user-checks-error-message-by-leaving-birthdate-field-empty---entering-invalid-credentials",
   "type": "scenario",
   "keyword": "Scenario"
 });
@@ -74,29 +74,29 @@ formatter.match({
   "location": "HomePageSteps.userEntersTheNameInYourNameField()"
 });
 formatter.result({
-  "duration": 199892100,
+  "duration": 174693600,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userClicksOnSubmitButton()"
 });
 formatter.result({
-  "duration": 59524300,
+  "duration": 116642400,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userVerifiesErrorTextOfBirthdayField()"
 });
 formatter.result({
-  "duration": 1592219800,
+  "duration": 605783600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 879121500,
+  "duration": 829554500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2625196600,
+  "duration": 5842431800,
   "status": "passed"
 });
 formatter.background({
@@ -113,28 +113,28 @@ formatter.step({
 });
 formatter.step({
   "line": 6,
-  "name": "User verfies title of the webpage",
+  "name": "User verifies title of the webpage",
   "keyword": "And "
 });
 formatter.match({
   "location": "HomePageSteps.userIsOnTheHomepage()"
 });
 formatter.result({
-  "duration": 26500,
+  "duration": 34700,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
 });
 formatter.result({
-  "duration": 9597500,
+  "duration": 12844000,
   "status": "passed"
 });
 formatter.scenario({
   "line": 13,
-  "name": "User checks error message by leaving your name field empty",
+  "name": "User checks error message by leaving your name field empty - entering invalid credentials",
   "description": "",
-  "id": "verify-functionality-of-how-old-are-you-website;user-checks-error-message-by-leaving-your-name-field-empty",
+  "id": "verify-functionality-of-how-old-are-you-website;user-checks-error-message-by-leaving-your-name-field-empty---entering-invalid-credentials",
   "type": "scenario",
   "keyword": "Scenario"
 });
@@ -157,29 +157,29 @@ formatter.match({
   "location": "HomePageSteps.userEntersBirthday()"
 });
 formatter.result({
-  "duration": 74609100,
+  "duration": 107387400,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userClicksOnSubmitButton()"
 });
 formatter.result({
-  "duration": 67324800,
+  "duration": 95486000,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userVerifiesErrorTextOfNameField()"
 });
 formatter.result({
-  "duration": 354595600,
+  "duration": 431826200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 779277700,
+  "duration": 762039900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3942184500,
+  "duration": 2472167700,
   "status": "passed"
 });
 formatter.background({
@@ -196,28 +196,28 @@ formatter.step({
 });
 formatter.step({
   "line": 6,
-  "name": "User verfies title of the webpage",
+  "name": "User verifies title of the webpage",
   "keyword": "And "
 });
 formatter.match({
   "location": "HomePageSteps.userIsOnTheHomepage()"
 });
 formatter.result({
-  "duration": 51500,
+  "duration": 23600,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
 });
 formatter.result({
-  "duration": 16401500,
+  "duration": 12872400,
   "status": "passed"
 });
 formatter.scenario({
   "line": 18,
-  "name": "User is on homepage",
+  "name": "User is entering correct credentials and submits form",
   "description": "",
-  "id": "verify-functionality-of-how-old-are-you-website;user-is-on-homepage",
+  "id": "verify-functionality-of-how-old-are-you-website;user-is-entering-correct-credentials-and-submits-form",
   "type": "scenario",
   "keyword": "Scenario"
 });
@@ -240,29 +240,29 @@ formatter.match({
   "location": "HomePageSteps.userEntersTheNameInYourNameField()"
 });
 formatter.result({
-  "duration": 117168100,
+  "duration": 174193900,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userEntersBirthday()"
 });
 formatter.result({
-  "duration": 55139400,
+  "duration": 87962800,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userClicksOnSubmitButton()"
 });
 formatter.result({
-  "duration": 58286200,
+  "duration": 91878700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 761985500,
+  "duration": 840258800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2275116700,
+  "duration": 5504591000,
   "status": "passed"
 });
 formatter.background({
@@ -279,28 +279,28 @@ formatter.step({
 });
 formatter.step({
   "line": 6,
-  "name": "User verfies title of the webpage",
+  "name": "User verifies title of the webpage",
   "keyword": "And "
 });
 formatter.match({
   "location": "HomePageSteps.userIsOnTheHomepage()"
 });
 formatter.result({
-  "duration": 34400,
+  "duration": 23700,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
 });
 formatter.result({
-  "duration": 12928100,
+  "duration": 11625700,
   "status": "passed"
 });
 formatter.scenario({
   "line": 23,
-  "name": "User verifies the text after Submitting details",
+  "name": "User verifies the text after Submitting details - end to end testing",
   "description": "",
-  "id": "verify-functionality-of-how-old-are-you-website;user-verifies-the-text-after-submitting-details",
+  "id": "verify-functionality-of-how-old-are-you-website;user-verifies-the-text-after-submitting-details---end-to-end-testing",
   "type": "scenario",
   "keyword": "Scenario"
 });
@@ -328,32 +328,32 @@ formatter.match({
   "location": "HomePageSteps.userEntersTheNameInYourNameField()"
 });
 formatter.result({
-  "duration": 141970500,
+  "duration": 145102600,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userEntersBirthday()"
 });
 formatter.result({
-  "duration": 55811800,
+  "duration": 86127100,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userClicksOnSubmitButton()"
 });
 formatter.result({
-  "duration": 59247800,
+  "duration": 79412400,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageSteps.userVerifiesWelcomeText()"
 });
 formatter.result({
-  "duration": 39736500,
+  "duration": 44176700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 781699200,
+  "duration": 788121700,
   "status": "passed"
 });
 });
