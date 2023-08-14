@@ -1,0 +1,434 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "User clicks on URL",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 109121100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "HomePageSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 41513000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User verfies title of the webpage",
+            "match": {
+              "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 22550805000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "User checks error message by leaving birthdate field empty",
+        "description": "",
+        "id": "verify-functionality-of-how-old-are-you-website;user-checks-error-message-by-leaving-birthdate-field-empty",
+        "after": [
+          {
+            "result": {
+              "duration": 879121500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 199892100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User enters the name in Your name field",
+            "match": {
+              "location": "HomePageSteps.userEntersTheNameInYourNameField()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 59524300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User clicks on Submit button",
+            "match": {
+              "location": "HomePageSteps.userClicksOnSubmitButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1592219800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User verifies error text of birthday field",
+            "match": {
+              "location": "HomePageSteps.userVerifiesErrorTextOfBirthdayField()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "User clicks on URL",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 26500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "HomePageSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9597500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User verfies title of the webpage",
+            "match": {
+              "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2625196600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "User checks error message by leaving your name field empty",
+        "description": "",
+        "id": "verify-functionality-of-how-old-are-you-website;user-checks-error-message-by-leaving-your-name-field-empty",
+        "after": [
+          {
+            "result": {
+              "duration": 779277700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 74609100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User enters Birthday",
+            "match": {
+              "location": "HomePageSteps.userEntersBirthday()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 67324800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User clicks on Submit button",
+            "match": {
+              "location": "HomePageSteps.userClicksOnSubmitButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 354595600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User verifies error text of name field",
+            "match": {
+              "location": "HomePageSteps.userVerifiesErrorTextOfNameField()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "User clicks on URL",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 51500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "HomePageSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 16401500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User verfies title of the webpage",
+            "match": {
+              "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3942184500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "User is on homepage",
+        "description": "",
+        "id": "verify-functionality-of-how-old-are-you-website;user-is-on-homepage",
+        "after": [
+          {
+            "result": {
+              "duration": 761985500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 117168100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User enters the name in Your name field",
+            "match": {
+              "location": "HomePageSteps.userEntersTheNameInYourNameField()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 55139400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User enters Birthday",
+            "match": {
+              "location": "HomePageSteps.userEntersBirthday()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 58286200,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User clicks on Submit button",
+            "match": {
+              "location": "HomePageSteps.userClicksOnSubmitButton()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "User clicks on URL",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 34400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "HomePageSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12928100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User verfies title of the webpage",
+            "match": {
+              "location": "HomePageSteps.userVerfiesTitleOfTheWebpage()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2275116700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "User verifies the text after Submitting details",
+        "description": "",
+        "id": "verify-functionality-of-how-old-are-you-website;user-verifies-the-text-after-submitting-details",
+        "after": [
+          {
+            "result": {
+              "duration": 781699200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 141970500,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User enters the name in Your name field",
+            "match": {
+              "location": "HomePageSteps.userEntersTheNameInYourNameField()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 55811800,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User enters Birthday",
+            "match": {
+              "location": "HomePageSteps.userEntersBirthday()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 59247800,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "User clicks on Submit button",
+            "match": {
+              "location": "HomePageSteps.userClicksOnSubmitButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 39736500,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "User verifies Logo Text",
+            "match": {
+              "location": "HomePageSteps.userVerifiesWelcomeText()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verify functionality of How Old Are You website",
+    "description": "",
+    "id": "verify-functionality-of-how-old-are-you-website",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/homepage.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@regression"
+      }
+    ]
+  }
+]
