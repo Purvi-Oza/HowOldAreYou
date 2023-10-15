@@ -42,6 +42,7 @@ public class HomePage extends Utility {
     public String verifyText(){
         return getTextFromElement(text);
     }
+    // Hello commit Test
     public String verifyTextName(){
         return getTextFromElement(text1);
     }
