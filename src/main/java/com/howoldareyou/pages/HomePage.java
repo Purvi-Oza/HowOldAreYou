@@ -46,15 +46,15 @@ public class HomePage extends Utility {
     public String verifyTextName(){
         return getTextFromElement(text1);
     }
-
+    // Hello commit Test 2
     public void enterBirthdate(String birthdate1) {
         sendTextToElement(birthdate, birthdate1);
     }
-
+    // Hello commit Test 3
     public String verifyLogo(){
         return getTextFromElement(logo);
     }
-
+    // Hello commit Test 4
     public void getTitle(){
         driver.getTitle();
 
